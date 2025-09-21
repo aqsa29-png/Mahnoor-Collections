@@ -1,0 +1,47 @@
+.product-card {
+  position: relative;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.product-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+}
+
+.badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: red;
+  color: #fff;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.8rem;
+  border-radius: 3px;
+}
+
+.price {
+  margin-top: 0.5rem;
+}
+
+.sale-price {
+  font-weight: bold;
+  color: rgb(225, 191, 162);
+}
+
+.regular-price {
+  text-decoration: line-through;
+  color:whitesmoke;
+  margin-left: 0.5rem;
+}

@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: maroon;
+  color: #fff;
+}
+
+.navbar-brand a {
+  font-size: 1.8rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar-menu a {
+  margin-left: 1.5rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar-menu a:hover {
+  color: #ddd;
+}
