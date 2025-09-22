@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mahnoor-Collections/static/css/main.b587192c.css",
+    "main.js": "/Mahnoor-Collections/static/js/main.8f844271.js",
+    "static/js/453.670e15c7.chunk.js": "/Mahnoor-Collections/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Mahnoor-Collections/index.html",
+    "main.b587192c.css.map": "/Mahnoor-Collections/static/css/main.b587192c.css.map",
+    "main.8f844271.js.map": "/Mahnoor-Collections/static/js/main.8f844271.js.map",
+    "453.670e15c7.chunk.js.map": "/Mahnoor-Collections/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b587192c.css",
+    "static/js/main.8f844271.js"
+  ]
+}
