@@ -7,7 +7,7 @@ function Navbar() {
 
   return (
     <nav style={{ padding: "1rem", background: "#000", color: "#fff" }}>
-      <Link to="/" style={{ color: "#800000", fontWeight: "bold", fontSize: "1.5rem" }}>
+      <Link to="/" style={{ color: "#800000", fontWeight: "bold", fontSize: "1.5rem" ,fontFamily:"fantasy"}}>
         Mahnoor Collections
       </Link>
       <span style={{ marginLeft: "2rem" }}>

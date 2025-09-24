@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        maroon: '#800000'
-      }
+        peach: "#FFDAB9", 
+      },
     },
   },
   plugins: [],
